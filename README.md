@@ -1,4 +1,6 @@
 samplephp
 =========
 
-A do nothing PHP site to show that you properly configured a PHP site
+This is the modified version of the PHP read-me. 
+
+Ryan Matte 300027432
